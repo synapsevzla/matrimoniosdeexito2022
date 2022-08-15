@@ -1,0 +1,7 @@
+#ignoramos la configuracion de firebase
+firebase.json
+fiveserver.config.js
+
+#sacamos los .map y los scss del commit
+*.scss
+*.map
